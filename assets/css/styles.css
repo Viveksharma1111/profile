@@ -391,10 +391,11 @@ img {
 .footer__title {
   font-size: 2rem;
   margin-bottom: var(--mb-4);
+  margin-bottom: 0
 }
 
 .footer__social {
-  margin-bottom: var(--mb-4);
+  margin-bottom: 1;
 }
 
 .footer__icon {
